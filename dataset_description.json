@@ -1,0 +1,19 @@
+{
+    "Name": "3d tracking of mice performing string pulling",
+    "BIDSVersion": "1.10",
+    "HEDVersion": "8.3.0",
+    "Description": "Video dataset of mice performing a string pulling behavior, with 3d tracking of keypoints on the body using DANNCE.",
+    "DatasetType": "raw",
+    "Authors": [
+        "Rodgers, Chris"
+    ],
+    "License": "CC0-1.0",
+    "GeneratedBy": [
+        {
+            "Name": "nwb2bids",
+            "Version": "0.12.1.dev6+gf29fa0039",
+            "Description": "Tool to reorganize NWB files into a BIDS directory layout.",
+            "CodeURL": "https://github.com/con/nwb2bids"
+        }
+    ]
+}
